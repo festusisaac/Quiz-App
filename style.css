@@ -59,5 +59,11 @@ body{
     cursor: pointer;
     text-align: center;
     border-radius: 4px;
-    display: block;
+    display: none;
+}
+.correct{
+    background: #9aeabc;
+}
+.incorrect{
+    background: #ff9393;
 }
